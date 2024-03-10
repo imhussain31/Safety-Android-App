@@ -7,3 +7,6 @@ Safety is an innovative mobile application dedicated to enhancing your safety an
 Explore and access details about various public services in Bangladesh.
 Activate SOS service instantly with live location sharing via SMS.
 Direct link to emergency helpline services for quick assistance.
+
+#Developer - Muhammad Hussain
+#Email - imhussain9014@gmail.com 
